@@ -3,7 +3,7 @@
 
 ## Student Info
 
-* **Name:** *\Thota Praneeth Babu*
+* **Name:** *Thota Praneeth Babu*
 * **Student ID:** *\[700777380]*
 * **Course:** CS5720 Neural Networks and Deep Learning
 * Home Assignment 2,
